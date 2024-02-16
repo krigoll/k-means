@@ -1,2 +1,2 @@
 # k-means
-Algorytm k-means. Grupowanie danych z pliku, gdzie po każdej iteracji wypisuje sumę odległości przykładów od ich centroidów.
+The k-means algorithm. Groups data from a file, where after each iteration it prints the sum of the distances of the examples from their centroids.
